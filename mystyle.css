@@ -1,0 +1,42 @@
+body{
+	background: -webkit-linear-gradient(-8deg, rgb(240,255,255), rgb(230,230,250));
+}
+b {
+	color: 	#00BFFF ;
+	font-size: 36px;
+	font-family: Microsoft JhengHei;
+}
+table{
+	border-collapse: collapse;
+	width: 100%;
+}
+th, td {
+	text-align: center;
+	padding: 12px;
+}
+i{
+	color: #4169E1;
+}
+u {
+	color: #1E90FF;
+}
+p {
+	color: #4682B4;
+	font-size: 24px;
+}
+i:hover{
+	color: #EE82EE;
+}
+u:hover{
+	color: #FF00FF;
+}
+.img1{
+	border-radius: 50%;
+	max-width: 100%;
+	height: auto;
+}
+.img2{
+	border-radius: 50px;
+	max-width: 100%;
+	height: auto;
+}
